@@ -1,0 +1,34 @@
+_repo: Admiral-Farragut_27750
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred Thayer
+    - Mahan, Alfred T.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: This short biography of the Civil War admiral &#150; and hero of Mobile
+  Bay &#150; was published in 1892. Written by one of America's greatest naval historians,
+  himself a Civil War veteran, this work is a must read for anyone interested in Farragut
+  himself or in the development of Mahan's influential and pugnacious ideas about
+  sea power.
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farragut, David Glasgow, 1801-1870'
+- !lcc 'E456'
+title: Admiral Farragut
+url: http://www.gutenberg.org/ebooks/27750
